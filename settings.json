@@ -1,0 +1,10 @@
+{
+  "name": "zhbd",
+  "about": "Frontend Developer",
+  "pfp": "pfp.gif",
+  "socialLinks": [
+    { "text": "Discord", "link": "http://zhbd.tech/redirect.html?url=https://discord.com/users/1012053537942929518" },
+    { "text": "GitHub", "link": "http://zhbd.tech/redirect.html?url=https://github.com/zhbdtech" },
+    { "text": "Repo", "link": "http://zhbd.tech/redirect.html?url=https://github.com/zhbdtech/bio/" }
+  ]
+}
